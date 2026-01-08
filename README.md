@@ -139,7 +139,7 @@ Controls servo motors, robotic arm movement, and pick-and-place operations.
 
 Open Arduino IDE
 
-Open the .ino file from Robotic_arm_arduino_code
+Open the .ino file from : Robotic_arm_arduino_code
 
 Select the correct Board and COM Port
 
@@ -158,7 +158,7 @@ Scans QR codes using a webcam to identify orders and trigger customer-related ac
 
 Open VS Code
 
-Open the webcam_scanner_code folder
+Open the : webcam_scanner_code folder
 
 Install required Python libraries:
 
@@ -189,9 +189,13 @@ Cloud-based monitoring and analytics
 Industry 4.0–ready automation
 
 📜 License
+
 This project is intended for academic and educational use.
+
 Feel free to fork, modify, and improve the system.
 
 👤 Author
+
 Anand Tugashetti
+
 Robotics & Automation
